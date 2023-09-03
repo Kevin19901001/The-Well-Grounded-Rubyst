@@ -1,1 +1,1 @@
-the lesson 《Well-Grounded Rubyst》.
+The lesson 《Well-Grounded Rubyst》.
