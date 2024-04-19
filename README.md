@@ -1,1 +1,1 @@
-#课程《Well-Grounded Rubyst》.
+#课程《Ruby程序员修炼之道》。
